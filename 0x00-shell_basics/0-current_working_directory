@@ -1,2 +1,2 @@
 #!/bin/bash
-the current working diectory
+pwd
